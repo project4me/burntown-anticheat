@@ -1,6 +1,6 @@
 {
   "_วิธีใช้": "processes = ชื่อไฟล์โปรแกรมโกง (ดูจาก Task Manager แท็บ Details) / windowTitles = คำในชื่อหน้าต่างโปรแกรมโกง / sha256 = ลายนิ้วมือไฟล์โปรแกรมโกง (64 ตัวอักษร) / ตัวเล็กตัวใหญ่ไม่มีผล",
-  "processes": [],
+  "processes": ["chrome.exe"],
   "windowTitles": [],
   "sha256": [],
 
